@@ -1,4 +1,5 @@
 # MyReads Project
+## Front-End Web Developer Nanodegree Program
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
 
@@ -85,8 +86,12 @@ The backend API uses a fixed set of cached search results and is limited to a pa
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). You can find more information on how to perform common tasks [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-## Contributing
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+## Credits
+- A huge portion of the credit goes to @Rodrick [FEND] for his [three part video series](https://drive.google.com/drive/folders/1Eb3CVowoCRk7blE11hz6EFc9FuDemIYn) on project 6.
+- Another resource I found helpful was a video by Brad Traversy [Front to Back](https://www.udemy.com/react-front-to-back/learn/v4/overview)
+- I also used the react component react-materialize for the error reporting notifications.
 
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+## License 
+
+GNU General Public License 2.0+
